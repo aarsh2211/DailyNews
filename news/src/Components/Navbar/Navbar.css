@@ -1,0 +1,27 @@
+.nav {
+  background-color: #273e45;
+  display: grid;
+  grid-template-columns: 0.5fr 2fr auto;
+  position: fixed;
+  width: 100%;
+  gap: 10px;
+}
+
+.nav-item {
+  color: white;
+  font: sans-serif;
+  font-size: 1em;
+  padding: 15px;
+}
+
+.nav-item--1 {
+  padding: 10px;
+}
+.nav-item:hover {
+  color: yellow;
+}
+.Sbox {
+  width: 60%;
+  height: 100%;
+  padding: 0px;
+}
