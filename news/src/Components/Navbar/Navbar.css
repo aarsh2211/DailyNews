@@ -2,7 +2,7 @@
   background-color: #273e45;
   display: grid;
   grid-template-columns: 0.5fr 2fr auto;
-  position: fixed;
+  position: relative;
   width: 100%;
   gap: 10px;
 }

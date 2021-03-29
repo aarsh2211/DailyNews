@@ -1,0 +1,5 @@
+.sliderimg {
+  width: 100vh;
+  height: 50vh;
+  object-fit: contain;
+}
