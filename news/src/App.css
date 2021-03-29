@@ -1,6 +1,5 @@
 .Carousel-container {
   width: 100%;
   position: relative;
-
-  text-align: center;
+  top: 10vh;
 }

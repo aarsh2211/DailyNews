@@ -1,5 +1,8 @@
 .sliderimg {
-  width: 100vh;
   height: 50vh;
   object-fit: contain;
+  align-self: center;
+}
+.alice-carousel__stage-item {
+  text-align: center;
 }
