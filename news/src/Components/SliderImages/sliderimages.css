@@ -1,0 +1,6 @@
+.sliderimg {
+  height: 50vh;
+  width: 100vh;
+  object-fit: contain;
+  align-self: center;
+}

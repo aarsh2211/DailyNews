@@ -4,11 +4,14 @@ import './App.css';
 import Carousels from './Components/Carousel/carousel.js'
 import NavBar from './Components/Navbar/Navbar'
 
+
 class App extends Component {
   render() {
+
     return (
       <div>
-      <NavBar></NavBar>
+       
+        <NavBar></NavBar>
         <div className="Carousel-container">
          
             <Carousels></Carousels>
